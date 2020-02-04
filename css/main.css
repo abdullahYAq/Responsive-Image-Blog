@@ -16,10 +16,12 @@ body {
 }
 
 article {
+  width: 50em;
 }
 
 h1 {
 }
 
 img {
+  max-width: 100%;
 }
